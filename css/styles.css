@@ -2,6 +2,10 @@ h3{
 	color: white;
 }
 
+body{
+	background: #C0C0C0;
+}
+
 /* Gallery Styling */
 
 .gallery .th {
